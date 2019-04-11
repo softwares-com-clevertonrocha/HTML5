@@ -11,7 +11,6 @@ Over 170 responsive design blocks ready to be used in your web or mobile apps. A
  🦄**
 
 <p><a href="https://www.froala.com/design-blocks/webpage-builder">Design Blocks Builder »</a></p>
-<p><a href="https://www.froala.com/wysiwyg-editor">WYSIWYG HTML Editor</a> · <a href="https://www.froala.com/pages">Pages</a> · <a href="https://www.froala.com/blog">Blog</a> · <a href="https://github.com/froala/design-blocks/archive/master.zip">Download</a></p>
 
 ![Design Blocks](https://raw.githubusercontent.com/froala/design-blocks/master/design-blocks.jpg)
 
@@ -118,16 +117,16 @@ We provide compiled CSS (`froala_blocks.css`), as well as compiled and minified 
 
 ## Categories
 
-- Call to action - https://github.com/froala/design-blocks/blob/master/dist/call-to-action.html
-- Contacts - https://github.com/froala/design-blocks/blob/master/dist/contacts.html
-- Contents - https://github.com/froala/design-blocks/blob/master/dist/contents.html
-- Features - https://github.com/froala/design-blocks/blob/master/dist/features.html
-- Footers - https://github.com/froala/design-blocks/blob/master/dist/footers.html
-- Forms - https://github.com/froala/design-blocks/blob/master/dist/forms.html
-- Headers - https://github.com/froala/design-blocks/blob/master/dist/headers.html
-- Pricings - https://github.com/froala/design-blocks/blob/master/dist/pricings.html
-- Teams - https://github.com/froala/design-blocks/blob/master/dist/teams.html
-- Testimonials - https://github.com/froala/design-blocks/blob/master/dist/testimonials.html
+- Call to action - 
+- Contacts - 
+- Contents - 
+- Features - 
+- Footers - 
+- Forms - 
+- Headers - 
+- Pricings - 
+- Teams - 
+- Testimonials 
 
 
 
@@ -150,26 +149,15 @@ At the moment, we aim to support all major web browsers. Any issue in the browse
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the issue guidelines and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/froala/design-blocks/issues/new).
+Have a bug or a feature request? Please first read the issue guidelines and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://#).
 
 
-
-## Community
-
-Get updates on Froala Design Blocks' development and chat with the project maintainers and community members:
-
-- Follow [@froala on Twitter](https://twitter.com/froala)
-- Read and subscribe to [The Official Froala Blog](https://www.froala.com/blog)
-- Check the [Official Website](https://www.froala.com/design-blocks)
-- Join us [on Facebook](https://www.facebook.com/froala/)
-- [Google+](https://plus.google.com/+Froala/)
-- [Pinterest](https://pinterest.com/froala/)
 
 
 
 ## Contributing guidelines
 
-All contributions are more than welcomed. Contributions may close an issue, fix a bug (reported or not reported), add new design blocks, improve the existing code, add new feature, and so on. In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. [Read the full Code of Conduct](https://github.com/froala/design-blocks/blob/dev/CODE_OF_CONDUCT.md).
+All contributions are more than welcomed. Contributions may close an issue, fix a bug (reported or not reported), add new design blocks, improve the existing code, add new feature, and so on. In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. [Read the full Code of Conduct](https://#blocks/blob/dev/CODE_OF_CONDUCT.md).
 
 The `dev` branch is the default and base branch for the project. It is used for development and all Pull Requests should go there. Please make sure not to commit the `dist` folder in the `dev` branch.
 
